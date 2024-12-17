@@ -23,6 +23,7 @@ insert_header_check_2（keep_insert ，keep_in_last，data_num）：验证当dat
 ### 仿真结果
 
 ![sim_result1](.\sim_result\sim_result1.png)
+![sim_result1](https://github.com/dyy6677/DatenLord_FPGA/blob/main/sim_result/sim_result1.png)
 
 keep_insert=4'b0111,keep_in_last=4'b1110连续传输10个数据
 
